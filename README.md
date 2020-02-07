@@ -1,0 +1,2 @@
+1. Songplay_id is not included in data source, so I generate it by combining timestamp and userid
+2. When I select the artist id and song id based on their names from songplay table, I can not find any value from song and artist tables
